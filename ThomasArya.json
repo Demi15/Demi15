@@ -23,17 +23,17 @@
     {
       "id": 1,
       "name_category": "DJ Thomas Arya",
-      "image": "file:///android_asset/image/khalid.jpg"
+      "image": "file:///android_asset/image/alien.jpg"
     },
     {
       "id": 2,
       "name_category": "Thomas Arya",
-      "image": "file:///android_asset/image/khalid.jpg"
+      "image": "file:///android_asset/image/alien.jpg"
     },
     {
       "id": 3,
       "name_category": "Akustik Thomas Arya",
-      "image": "file:///android_asset/image/khalid.jpg"
+      "image": "file:///android_asset/image/alien.jpg"
     }
   ],
   "Data": [
@@ -41,7 +41,7 @@
       "id": 1,
       "name_category": "Thomas Arya",
       "title": "Paksakan",
-      "image": "file:///android_asset/image/khalid.jpg",
+      "image": "file:///android_asset/image/play.jpg",
       "link_mp3": "",
       "lyrics": ""
     }
