@@ -39,11 +39,180 @@
   "Data": [
     {
       "id": 1,
-      "name_category": "Thomas Arya",
-      "title": "Paksakan",
+      "name_category": "Akustik Thomas Arya",
+      "title": "Bunga",
       "image": "file:///android_asset/image/play.jpg",
-      "link_mp3": "",
+      "link_mp3": "https://ia802504.us.archive.org/9/items/ThomasArya_202207/Bunga.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "Akustik Thomas Arya",
+      "title": "Cerita Abadi",
+      "image": "file:///android_asset/image/play.jpg",
+      "link_mp3": "https://ia802504.us.archive.org/9/items/ThomasArya_202207/CeritaAbadi.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "Akustik Thomas Arya",
+      "title": "Dua Insan Yang Terluka",
+      "image": "file:///android_asset/image/play.jpg",
+      "link_mp3": "https://ia802504.us.archive.org/9/items/ThomasArya_202207/DuaInsanYangTerluka.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "Akustik Thomas Arya",
+      "title": "Hati Berlukis Rindu",
+      "image": "file:///android_asset/image/play.jpg",
+      "link_mp3": "https://ia802504.us.archive.org/9/items/ThomasArya_202207/HatiBerlukisRindu.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "Akustik Thomas Arya",
+      "title": "Kasih Tak Nyata",
+      "image": "file:///android_asset/image/play.jpg",
+      "link_mp3": "https://ia902504.us.archive.org/9/items/ThomasArya_202207/KasihTakNyata.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "Akustik Thomas Arya",
+      "title": "Ku Disini Untukmu",
+      "image": "file:///android_asset/image/play.jpg",
+      "link_mp3": "https://ia902504.us.archive.org/9/items/ThomasArya_202207/KuDisiniUntukmu.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "Akustik Thomas Arya",
+      "title": "Pujaan Insan Manja",
+      "image": "file:///android_asset/image/play.jpg",
+      "link_mp3": "https://ia902504.us.archive.org/9/items/ThomasArya_202207/PujaanInsanManja.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "Akustik Thomas Arya",
+      "title": "Rela Demi Cinta",
+      "image": "file:///android_asset/image/play.jpg",
+      "link_mp3": "https://ia802504.us.archive.org/9/items/ThomasArya_202207/RelaDemiCinta.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "Akustik Thomas Arya",
+      "title": "Rindu Terbasuh Air Mata",
+      "image": "file:///android_asset/image/play.jpg",
+      "link_mp3": "https://ia902504.us.archive.org/9/items/ThomasArya_202207/RinduTerbasuhAirMata.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "Akustik Thomas Arya",
+      "title": "Satu Hati Sampai Mati",
+      "image": "file:///android_asset/image/play.jpg",
+      "link_mp3": "https://ia802504.us.archive.org/9/items/ThomasArya_202207/SatuHatiSampaiMati.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "Akustik Thomas Arya",
+      "title": "Satu Untuk Selamanya",
+      "image": "file:///android_asset/image/play.jpg",
+      "link_mp3": "https://ia902504.us.archive.org/9/items/ThomasArya_202207/SatuUntukSelamanya.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 12,
+      "name_category": "Akustik Thomas Arya",
+      "title": "Sepi Berkepanjangan",
+      "image": "file:///android_asset/image/play.jpg",
+      "link_mp3": "https://ia802504.us.archive.org/9/items/ThomasArya_202207/SepiBerkepanjangan.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "Thomas Arya",
+      "title": "Berbeza Kasta",
+      "image": "file:///android_asset/image/play.jpg",
+      "link_mp3": "https://ia601405.us.archive.org/23/items/satu-hati-sampai-mati-thomas-arya/Berbeza%20Kasta%20Thomas%20Arya.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "Thomas Arya",
+      "title": "Butiran Sandiwara Cinta",
+      "image": "file:///android_asset/image/play.jpg",
+      "link_mp3": "https://archive.org/download/satu-hati-sampai-mati-thomas-arya/Butiran%20Sandiwara%20Cinta%20Thomas%20Arya.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "Thomas Arya",
+      "title": "Dermaga Biru",
+      "image": "file:///android_asset/image/play.jpg",
+      "link_mp3": "https://archive.org/download/satu-hati-sampai-mati-thomas-arya/Dermaga%20Biru%20Thomas%20Arya%20Cover%20by%20Maulana%20Ardiansyah.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "Thomas Arya",
+      "title": "Dimana Salahnya",
+      "image": "file:///android_asset/image/play.jpg",
+      "link_mp3": "https://archive.org/download/satu-hati-sampai-mati-thomas-arya/Dimana%20Salahnya%20Thomas%20Arya%20Feat%20Elsa%20Pitaloka.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "Thomas Arya",
+      "title": "Harapan Cinta Jadi Dilema",
+      "image": "file:///android_asset/image/play.jpg",
+      "link_mp3": "https://archive.org/download/satu-hati-sampai-mati-thomas-arya/Harapan%20Cinta%20Jadi%20Dilema%20Thomas%20Arya%20Feat%20Elsa%20Pitaloka.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "Thomas Arya",
+      "title": "Izinkan",
+      "image": "file:///android_asset/image/play.jpg",
+      "link_mp3": "https://archive.org/download/satu-hati-sampai-mati-thomas-arya/Izinkan%20Thomas%20Arya%20Ft%20Iqa%20Nizam.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "Thomas Arya",
+      "title": "Kecewa Dalam Setia",
+      "image": "file:///android_asset/image/play.jpg",
+      "link_mp3": "https://archive.org/download/satu-hati-sampai-mati-thomas-arya/Kecewa%20Dalam%20Setia%20Thomas%20Arya.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "Thomas Arya",
+      "title": "Rela Demi Cinta",
+      "image": "file:///android_asset/image/play.jpg",
+      "link_mp3": "https://archive.org/download/satu-hati-sampai-mati-thomas-arya/Rela%20Demi%20Cinta%20Thomas%20Arya%20Feat%20Elsa%20Pitaloka.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "Thomas Arya",
+      "title": "Satu Hati Sampai Mati",
+      "image": "file:///android_asset/image/play.jpg",
+      "link_mp3": "https://archive.org/download/satu-hati-sampai-mati-thomas-arya/Satu%20Hati%20Sampai%20Mati%20Thomas%20Arya.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "Thomas Arya",
+      "title": "Satu Untuk Selamanya",
+      "image": "file:///android_asset/image/play.jpg",
+      "link_mp3": "https://archive.org/download/satu-hati-sampai-mati-thomas-arya/Satu%20Untuk%20Selamanya%20Thomas%20Arya.mp3",
       "lyrics": ""
     }
+
   ]
 }
